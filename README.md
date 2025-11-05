@@ -1,5 +1,5 @@
 ## RSA Encoder and Decoder
-RSA Algorithm Encrypter and decrypter takes input in English and translates the message to a comma separated encrypted message.
+RSA Algorithm Encrypter and decrypter that takes input in English and translates the message to a comma separated encrypted message.
 
 <img width="717" height="980" alt="Image 11-5-25 at 12 24 PM" src="https://github.com/user-attachments/assets/73dda8fc-7f61-474d-b39d-ced4fdb5c4f9" />
 
