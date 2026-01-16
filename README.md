@@ -1,7 +1,11 @@
 ## RSA Encoder and Decoder
-RSA Algorithm Encrypter and decrypter that takes input in English and translates the message to a comma separated encrypted message.
+RSA Algorithm Encrypter and decrypter that takes input in English and translates the message to a comma-separated encrypted message.
 
-<img width="717" height="980" alt="Image 11-5-25 at 12 24 PM" src="https://github.com/user-attachments/assets/73dda8fc-7f61-474d-b39d-ced4fdb5c4f9" />
+<img width="663" height="629" alt="image" src="https://github.com/user-attachments/assets/8c14d4b1-d980-4587-a3a9-788c0f12e9b9" />
+
+RSA with formatting: 
+
+<img width="700" height="970" alt="Image 11-5-25 at 12 24 PM" src="https://github.com/user-attachments/assets/73dda8fc-7f61-474d-b39d-ced4fdb5c4f9" />
 
 ## RSA Encoder and Decoder with Formatting 
 Same functionality as above plus the user can choose a value to assign for comma and space. The tool also can convert comma separated strings to space separated strings if desired.
